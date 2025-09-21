@@ -1,4 +1,4 @@
-# Assignment-2-Practical-Data-Science
+# Practical-Data-Science-Letter-Recognition-Modelling
 Data Modelling and Presentation for Letter Image Recognition Dataset
 Requires:
 - Jupyter Notebook
