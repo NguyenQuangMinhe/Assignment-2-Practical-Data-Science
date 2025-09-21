@@ -1,5 +1,6 @@
 # Practical-Data-Science-Letter-Recognition-Modelling
 Data Modelling and Presentation for Letter Image Recognition Dataset
+From Dataset: https://archive.ics.uci.edu/dataset/59/letter+recognition 
 Requires:
 - Jupyter Notebook
 Libraries: pandas, numpy, sklearn, matplotlib
